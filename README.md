@@ -23,8 +23,3 @@ Modèle conceptuel de la zone de socle (Wyns et al, 2004)
 + Jupyter Notebook
 + GitHub
 
-## Organisation du projet
-notebooks/ : tous les notebooks classés par analyse des données 
-data/ : fichiers bruts et fichiers nettoyés  
-README.md : explication du projet  
-requirements.txt : bibliothèques nécessaires à l'exécution
